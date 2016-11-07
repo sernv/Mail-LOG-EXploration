@@ -40,7 +40,7 @@ for line in file:
                 print "Subject Email " + bcolors.YELLOW,title.group(1) + bcolors.ENDC
              mail = re.search("(>\Wfor\W.*)", line)
              if mail:
-                print "The email has been sent" + bcolors.RED, mail.group(1) + bcolors.ENDC
+                print "Email recipients " + bcolors.RED, mail.group(1) + bcolors.ENDC
                 print ""
 
 file.close()
