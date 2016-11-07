@@ -18,4 +18,6 @@ The script displays the output in the following colors:
 
 # Usage
 
-mlogex.py <SMTP_Logs_Fie> <Email_Address>
+mlogex.py [SMTP_Logs_Fie] [Email_Address]
+
+
