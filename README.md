@@ -10,11 +10,11 @@ T="Are you seeking for legitimate and fast loan?" from <user@mycompany.com> for 
 [...] 
 ```
 
-The script displays the output in the following colors: 
+The script displays the output in the following font colors: 
 
-* White highlight: Log entry that contains an subject email  and matches with the given email address and 
-* Yellow highlight: Subject email 
-* Red highlight: Recipient email addresses 
+* White font color:  Log entry that contains an subject email  and matches with the given email address and 
+* Yellow font color: Subject email 
+* Red font color:    Recipient email addresses 
 
 # Usage
 
